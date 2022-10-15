@@ -15,3 +15,6 @@ https://1prime.ru/charts_usdrub/
   BeautifulSoup # Модуль для работы с HTML
   time # Модуль для остановки программы
   smtplib # Модуль для работы с почтой
+
+Описание архитектуры:
+https://github.com/ET414/Exchange_Rates/blob/28e973b33b6b17cb63e63e1a9d0f96d4c66564dc/architecture.md
