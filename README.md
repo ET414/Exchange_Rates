@@ -18,3 +18,6 @@ https://1prime.ru/charts_usdrub/
 
 Описание архитектуры:
 https://github.com/ET414/Exchange_Rates/blob/28e973b33b6b17cb63e63e1a9d0f96d4c66564dc/architecture.md
+
+Процессы на проекте:
+https://github.com/ET414/Exchange_Rates/blob/main/process.md
