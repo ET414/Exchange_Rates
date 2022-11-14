@@ -23,4 +23,4 @@ https://github.com/ET414/Exchange_Rates/blob/28e973b33b6b17cb63e63e1a9d0f96d4c66
 https://github.com/ET414/Exchange_Rates/blob/main/process.md
 
 Работа в команде:
-https://github.com/ET414/Exchange_Rates
+https://github.com/ET414/Exchange_Rates/blob/main/team.md
